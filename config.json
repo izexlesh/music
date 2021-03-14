@@ -1,0 +1,12 @@
+{
+    "prefix": "-",
+    "token": "NzgxMDU0MTMwNjEzNTE4MzU3.X74DWA.eTZ9BZvoWgiHMWKCXmdTaP9VRSM",
+    "emoji": {
+        "play": "<:play:820691118110277662>",
+        "stop": "<:stop:820699490536783882>",
+        "queue": "<:queue:820699701975711796>",
+        "success": "<:success:820699893114732615>",
+        "repeat": "<:repeat:820700101952405504>",
+        "error": "<:error:820699947141562408>"
+    }
+}
